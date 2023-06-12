@@ -1,15 +1,17 @@
 # Outfithub-Documentation
 
+
+
 ## Our team
 <div align="center">
   
  Name | Bangkit ID | Learning Path |
 | ------------ | ------------ | ------------ |
+| Derryl Reflando Tarigan | C360DSX3457 | Cloud Computing | 
+| Muhammad Faturrahman Saputra | C009DSX1936 | Cloud Computing |
 | Aditya Putra Prastyo | M147DSX1340 | Machine Learning | 
 | Arya Maghrizal Putra | M360DSX2574 | Machine Learning |  
-| Faiz Albar Risi  | M059DSX3271 | Machine Learning |
-| Derryl Reflando Tarigan | C360DSX3457 | Cloud Computing | 
-| Muhammad Faturrahman Saputra | C009DSX1936 | Cloud Computing | 
+| Faiz Albar Risi  | M059DSX3271 | Machine Learning | 
 | Venus Lidzikri Adhitya | A360DSX3635 | Mobile Development | 
   
 </div>
