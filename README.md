@@ -1,8 +1,14 @@
+<div align="center">
+  
 # Outfithub-Documentation
+  
 
+</div>
 
+<br>
 
-## Our team
+## Our Team
+  
 <div align="center">
   
  Name | Bangkit ID | Learning Path |
@@ -27,4 +33,4 @@ Our project divided into 3 branches :
 <br>
 
 ## License
-[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=plastic)](https://www.gnu.org/licenses/gpl-3.0)
