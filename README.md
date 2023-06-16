@@ -1,6 +1,6 @@
 <div align="center">
   
-# Outfithub-Documentation
+# Outfithub Documentation
   
 
 </div>
