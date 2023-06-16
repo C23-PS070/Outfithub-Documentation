@@ -27,8 +27,8 @@
 ## Branch
 Our project divided into 3 branches : 
 - [Cloud Computing](https://github.com/C23-PS070/Outfithub-Backend)
+- [Machine Learning](https://github.com/C23-PS070/Outfithub-Predict)
 - [Mobile Development](https://github.com/C23-PS070/Outfithub-Mobile)
-- [Model Prediction](https://github.com/C23-PS070/Outfithub-Predict)
 
 <br>
 
